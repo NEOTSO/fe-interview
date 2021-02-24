@@ -1,0 +1,7 @@
+.lazy-load {
+    display: block;
+    /* width: 300px; */
+    height: 300px;
+    border: 1px solid red;
+    margin-bottom: 1000px;
+}
